@@ -1,4 +1,4 @@
-# 🚀 QPM Questões | Engineering Case Study
+# 🚀 QPM Questões | Product Case Study
 
 **Live Project:** [qpmquestoes.com](https://qpmquestoes.com)
 
